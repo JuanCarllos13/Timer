@@ -43,14 +43,14 @@ export function CyclesContextProvider({ children }: CycleContextProviderProps) {
       cycles: [],
       activeCycleId: null,
     },
-    () => {
-      const storageSateJson = localStorage.getItem(
-        '@igniteTimer:cyclesState-1.0.0',
+    (initialValue) => {
+      const cyclesCacheJSON = localStorage.getItem(
+        '@ignite-timer:cycles-state-1.0.0',
       )
 
-      if (storageSateJson) {
-        return JSON.parse(storageSateJson)
-      }
+      if (!cyclesCacheJSON) return initialValue
+
+      return JSON.parse(cyclesCacheJSON)
     },
   )
 
