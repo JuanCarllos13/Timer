@@ -6,6 +6,8 @@
   Projeto criado com o intuito de mostrar meus conhecimentos ao decorrer da minha carreira.
 </h4>
 
+https://user-images.githubusercontent.com/86435195/208334714-5cf3e146-e426-4419-93e2-f7b07fe3fc8e.mp4
+
 ## ❓ O que é ?
 
 Este é um repositório no qual se encontra a parte Front-end de uma aplicação. Faço um clone desse Repositório e der o comando "yarn", em seguindo um "yarn dev" para executar.
