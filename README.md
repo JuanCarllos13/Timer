@@ -10,7 +10,11 @@ https://user-images.githubusercontent.com/86435195/208334714-5cf3e146-e426-4419-
 
 ## ❓ O que é ?
 
-Esse projeto tem como objetivo cronometra e ajuda o usuário a gerenciar seu tempo nos estudos e manter informado de quantas horas e minutos ficou trabalhando ou estudando em terminada tarefa. Contendo todo o histórico e período que ele trabalhou.
+O projeto de cronômetro em React é uma ótima maneira de ajudar os usuários a gerenciarem seu tempo de forma eficiente. A página inicial apresenta um cronômetro interativo com botões para iniciar, pausar e zerar o contador, bem como um display digital para mostrar as hora e minutos contados. 
+
+A seção de Histórico exibe uma lista de todos os projetos nos quais o usuário trabalhou, juntamente com a quantidade de horas e minutos trabalhados em cada um deles. O usuário pode adicionar um novo projeto ao histórico e atualizá-lo conforme necessário.
+
+O projeto foi construído usando HTML, CSS e JavaScript, com a biblioteca React.js para renderizar a interface do usuário e o Reducer para gerenciar o estado global do aplicativo. O Reducer ajuda a manter a consistência do estado entre os componentes, permitindo que os dados sejam compartilhados e atualizados de maneira fácil e eficiente.
 
 <hr>
 
