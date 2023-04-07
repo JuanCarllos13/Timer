@@ -10,14 +10,24 @@ https://user-images.githubusercontent.com/86435195/208334714-5cf3e146-e426-4419-
 
 ## ❓ O que é ?
 
-Este é um repositório no qual se encontra a parte Front-end de uma aplicação. Faço um clone desse Repositório e der o comando "yarn", em seguindo um "yarn dev" para executar.
+Esse projeto tem como objetivo cronometra e ajuda o usuário a gerenciar seu tempo nos estudos e manter informado de quantas horas e minutos ficou trabalhando ou estudando em terminada tarefa. Contendo todo o histórico e período que ele trabalhou.
 
 <hr>
 
-## 🎯 Objetivo
+<h3>🧭 Rodando a aplicação</h3>
 
-Esse projeto tem como objetivo cronometra e ajuda o usuário a gerenciar seu tempo nos estudos e manter informado de quantas horas e minutos ficou trabalhando ou estudando em terminada tarefa. Contendo todo o histórico e período que ele trabalhou.
+<span class="pl-c"><span class="pl-c"></span> Acesse a pasta do projeto no terminal/cmd e execute os seguintes comandos:</span>
 
+```
+cd timer
+code .
+npm install ou yarn
+```
+<span class="pl-c"><span class="pl-c"></span>Depois de ter iniciado o projeto no vscode, apenas digite o comando no terminal:</span>
+
+```
+yarn start
+```
 <hr>
 
 ## 📚 Seções
